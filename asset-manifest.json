@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-snacks/static/css/main.c41ceb90.chunk.css",
+    "main.js": "/react-snacks/static/js/main.a28b323f.chunk.js",
+    "main.js.map": "/react-snacks/static/js/main.a28b323f.chunk.js.map",
+    "runtime-main.js": "/react-snacks/static/js/runtime-main.4514f772.js",
+    "runtime-main.js.map": "/react-snacks/static/js/runtime-main.4514f772.js.map",
+    "static/js/2.f9293327.chunk.js": "/react-snacks/static/js/2.f9293327.chunk.js",
+    "static/js/2.f9293327.chunk.js.map": "/react-snacks/static/js/2.f9293327.chunk.js.map",
+    "static/js/3.665759c8.chunk.js": "/react-snacks/static/js/3.665759c8.chunk.js",
+    "static/js/3.665759c8.chunk.js.map": "/react-snacks/static/js/3.665759c8.chunk.js.map",
+    "index.html": "/react-snacks/index.html",
+    "service-worker.js": "/react-snacks/service-worker.js",
+    "service-worker.js.map": "/react-snacks/service-worker.js.map",
+    "static/css/main.c41ceb90.chunk.css.map": "/react-snacks/static/css/main.c41ceb90.chunk.css.map",
+    "static/js/2.f9293327.chunk.js.LICENSE.txt": "/react-snacks/static/js/2.f9293327.chunk.js.LICENSE.txt",
+    "static/media/logo.4d803a75.png": "/react-snacks/static/media/logo.4d803a75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4514f772.js",
+    "static/js/2.f9293327.chunk.js",
+    "static/css/main.c41ceb90.chunk.css",
+    "static/js/main.a28b323f.chunk.js"
+  ]
+}
