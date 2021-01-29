@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import logo from '../../logo.png';
 
 const HeaderWrapper = styled.div`
   background-color: #FF4136;
@@ -24,6 +25,7 @@ const HeaderLinksWrapper = styled.ul`
     list-style: none;
     display: inline-flex;
     justify-content: space-evenly;
+    width: 100%;
 `
 
 const Link = styled.a`
@@ -36,7 +38,9 @@ const Link = styled.a`
 const Header = ({ links }) => (
     <HeaderWrapper>
         <LogoWrapper>
-            <Logo src="https://via.placeholder.com/64x64"/>
+            <Link href='/'>
+                <Logo src={logo}/>
+            </Link>
         </LogoWrapper>
         <HeaderLinksWrapper>
             {links.map(link =>
